@@ -1,6 +1,6 @@
 # Vacuous's Editor Tools
 
-Editor workflow tools for Unity 6.4 and newer. Everything is editor-only: nothing here ends up in a build.
+Editor workflow tools for Unity 6. Everything is editor-only: nothing here ends up in a build.
 
 ## Install
 
@@ -35,7 +35,7 @@ To pin a version, add a tag: `https://github.com/Vvacuous/vacuous-editor-tools.g
 
 ## Requirements
 
-- Unity 6000.4 or newer.
+- Tested on Unity 6.4; should work with all Unity 6 versions.
 - Auto Material From Textures targets URP Lit.
 - Rule of Thirds Guide needs Cinemachine 3; without it the rest of the package still works.
 

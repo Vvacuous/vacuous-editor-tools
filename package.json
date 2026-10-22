@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "displayName": "Vacuous's Editor Tools",
   "description": "Editor workflow tools for Unity projects: animator clip packing, auto materials, pose baking, mesh memory checks, default scenes, terrain export and opening a model's source file.",
-  "unity": "6000.4",
+  "unity": "6000.0",
   "license": "MIT",
   "author": {
     "name": "Vvacuous",
