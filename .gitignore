@@ -1,0 +1,7 @@
+# OS and IDE clutter
+.DS_Store
+Thumbs.db
+.idea/
+.vs/
+*.csproj
+*.sln

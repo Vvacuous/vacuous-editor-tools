@@ -1,0 +1,26 @@
+{
+    "name": "Vacuous.EditorTools.Cinemachine.Editor",
+    "rootNamespace": "Vacuous.EditorTools",
+    "references": [
+        "Unity.Cinemachine"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "VACUOUS_CINEMACHINE_3"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.cinemachine",
+            "expression": "3.0.0",
+            "define": "VACUOUS_CINEMACHINE_3"
+        }
+    ],
+    "noEngineReferences": false
+}
