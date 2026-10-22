@@ -10,7 +10,7 @@ In Unity, open **Window > Package Manager > + > Install package from git URL** a
 https://github.com/Vvacuous/vacuous-editor-tools.git
 ```
 
-To pin a version, add a tag: `https://github.com/Vvacuous/vacuous-editor-tools.git#v0.1.1`.
+To pin a version, add a tag: `https://github.com/Vvacuous/vacuous-editor-tools.git#v0.1.2`.
 
 ## Tools
 

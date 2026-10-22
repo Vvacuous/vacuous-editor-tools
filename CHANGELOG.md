@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.1.2] - 2026-10-23
+
+### Changed
+- Minimum Unity version lowered to 6000.0. Tested on Unity 6.4; should work with all Unity 6 versions.
+
 ## [0.1.1] - 2026-10-22
 
 ### Added
