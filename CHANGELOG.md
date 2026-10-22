@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.1] - 2026-10-22
+
+### Added
+- MIT license.
+
+### Changed
+- README no longer says the repository is private.
+
 ## [0.1.0] - 2026-10-22
 
 ### Added
