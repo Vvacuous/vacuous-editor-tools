@@ -12,8 +12,6 @@ https://github.com/Vvacuous/vacuous-editor-tools.git
 
 To pin a version, add a tag: `https://github.com/Vvacuous/vacuous-editor-tools.git#v0.1.0`.
 
-The repository is private, so the machine needs git credentials for GitHub (Git Credential Manager, installed with Git for Windows, handles this after one sign-in).
-
 ## Tools
 
 | Tool | Where | What it does |
@@ -40,3 +38,7 @@ The repository is private, so the machine needs git credentials for GitHub (Git 
 - Unity 6000.4 or newer.
 - Auto Material From Textures targets URP Lit.
 - Rule of Thirds Guide needs Cinemachine 3; without it the rest of the package still works.
+
+## License
+
+MIT. See [LICENSE.md](LICENSE.md).
